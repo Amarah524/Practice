@@ -1,0 +1,18 @@
+venv/
+.venv/
+
+#Python cache
+__pycache__/
+*.__pycache__
+
+
+
+#csv files
+*.csv
+mnist_train.csv
+mnist_test.csv
+
+
+unsupervised-ML/mnist_train.csv
+unsupervised-ML/mnist_test.csv
+
