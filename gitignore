@@ -9,6 +9,8 @@ __pycache__/
 
 #csv files
 *.csv
+mnist_train.csv
+mnist_test.csv
 
 
 
