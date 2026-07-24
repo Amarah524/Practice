@@ -1,0 +1,13 @@
+admin@company.com
+m.smith@company.com
+dev-team@internal.local
+j.doe@company.com
+support@service.io
+system.alert@internal.local
+system.alert@company.com
+j.doe@provider.org
+j.doe@webmail.net
+j.doe@service.io
+billing@service.io
+dev-team@service.io
+admin@webmail.net
